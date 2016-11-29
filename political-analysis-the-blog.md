@@ -2,7 +2,7 @@ Hi!
 
 I am sharedassumptions. I am starting this blog, a blog which I hope will become a community effort. This blog aims to provide unbiased political analysis based on rigid adherence to the methodology of reason, while still having fun.
 
-A bit more about me. I am an American. I am white. I don't identify as any gender. I don't identify as belonging to any political party. I belong to no political organization. I have no financial incentive in this work. I consider myself personally secure in most likely political futures. I have no agendas to push other than the agenda of publishing political analysis based on rigid adherence to the methodology of reason, and the agenda of having fun. I am choosing not to provide many specific details about myself, because I want the focus in analyzing my posts to be on the content and not on me.
+A bit more about me. I am an American. I am white. I don't identify as any gender. I don't identify as belonging to any political party. I belong to no political organization. I have no financial incentive in this work. I have no agendas to push other than the agenda of publishing political analysis based on rigid adherence to the methodology of reason, and the agenda of having fun. I am choosing not to provide many specific details about myself, because I want the focus in analyzing my posts to be on the content and not on me.
 
 For those reading who know me, please don't disclose publicly that I am sharedassumptions, and please don't tell others that I am sharedassumptions. I would like to be the one to share that information. Thank you.
 
@@ -16,7 +16,7 @@ The whole world is an editor of this blog. We will carry out our writing process
 
 I am the managing editor of this blog. I have the final say on what gets published. This can change in the event it needs to change.
 
-Anybody can submit articles for publication on this blog. For the time being, I will review all of these requests.
+Anybody can submit articles for publication on this blog. For the time being, I will review all of these requests. Here's what you need to know to submit an article for publication.
 
 To participate in the editing process, you'll need to have a [GitHub](https://github.com/) account, so sign up for one and learn how to use GitHub and Git if you haven't done that. GitHub has good resources on doing this. Remember to make your GitHub account anonymous; use a username that doesn't reveal your identity, and don't reveal your identity on your GitHub profile (including through your email address).
 

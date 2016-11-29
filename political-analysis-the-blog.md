@@ -10,7 +10,11 @@ The rest of this post is essentially a constitution for this blog. It describes 
 
 Contributors agree to make their best effort to realize the aims of the blog as set out in the first paragraph of this post.
 
-All contributors will abide by a standard of anonymity in accordance with the precedent I have set. Contributors will be identified by anonymous handles and inspecific details about who they are. We can stay anonymous and keep the focus on the ideas by herding together under this philosophy. If this breaks down eventually and our identities are made public, that's fine from my point of view.
+Contributors will strive to be inoffensive to all groups. E.g., contributors will strive not to offend the members of any race, ethnicity, nationality, gender, religious affiliation, political organization, or political philosophy. Contributors will strive not to offend any group, however unpopular.
+
+When people are offended by the mere presentation of a cogent argument presented in a neutral tone, the priority of presenting the argument in general supersedes the priority of not offending anybody. Posts should be written in a way which minimizes the chances of unnecessary offense caused by misunderstanding, but it's also not necessary to hand-hold the reader. Balancing these different considerations is a delicate matter to which we should devote considerable thought.
+
+All contributors will abide by a standard of anonymity. Contributors will be identified by anonymous handles and inspecific details about who they are. "Inspecific details" are any details which don't narrow down the number of people they could be to a relatively small number. We can stay anonymous and keep the focus on the ideas by herding together under this philosophy. If this breaks down eventually and our identities are made public, that's acceptable from my point of view.
 
 The whole world is an editor of this blog. We will carry out our writing process on https://github.com/political-analysis/ (until such time as that needs to change). Anybody with a GitHub account can watch our editing process, and they can contribute by submitting issues and pull requests. Anybody who contributes to one of the repositories (e.g. by submitting issues or pull requests, or commenting on issues) is considered a contributor.
 
@@ -26,4 +30,8 @@ Submit your article for publication by putting it into a GitHub repository as a 
 
 If I think an article submission is a good candidate for publication on the blog, given some revisions, I will have you agree to license the material under the [Apache License version 2.0](https://www.apache.org/licenses/LICENSE-2.0). I will fork it into the political-analysis organization. We will edit it. Then, whenever I feel it's time, I will publish it on this blog, assuming it reaches a state I find satisfactory.
 
-Posts won't be edited or deleted after they are published on this blog. They are carved in stone once published on this blog.
+Posts won't be edited or deleted after they are published on this blog. They are carved in stone once published on this blog. However, we may publish new editions of posts from time to time; e.g. an important post might get a new edition after a couple years, based on edits that happened in the interim.
+
+This post is an exception to the general rule that posts won't be edited. This post will be edited in an append-only way to amend the blog constitution. Such amendments will also be announced on the Google group.
+
+Amendments to the blog constitution will be developed on the Google group and GitHub via the open source method. I will have the final say on whether such amendments are implemented. This can change if it needs to. 
